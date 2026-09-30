@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\UMS\UMS\obj\Release\UMS.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\UMS\UMS\obj\Release\UMS.frmMain.resources
+C:\Users\admin\source\repos\UMS\UMS\obj\Release\UMS.frmLogin.resources
+C:\Users\admin\source\repos\UMS\UMS\obj\Release\UMS.People.Controls.ctrlPersonInfo.resources
+C:\Users\admin\source\repos\UMS\UMS\obj\Release\UMS.People.Controls.ctrlPersonInfoWithFilter.resources
+C:\Users\admin\source\repos\UMS\UMS\obj\Release\UMS.People.frmAddUpdatePerson.resources
+C:\Users\admin\source\repos\UMS\UMS\obj\Release\UMS.People.frmListPeople.resources
+C:\Users\admin\source\repos\UMS\UMS\obj\Release\UMS.People.frmShowPersonInfo.resources
+C:\Users\admin\source\repos\UMS\UMS\obj\Release\UMS.Properties.Resources.resources
+C:\Users\admin\source\repos\UMS\UMS\obj\Release\UMS.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\UMS\UMS\obj\Release\UMS.csproj.CoreCompileInputs.cache

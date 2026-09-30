@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\UMS\Business\bin\Debug\Business.dll
+C:\Users\admin\source\repos\UMS\Business\bin\Debug\Business.pdb
+C:\Users\admin\source\repos\UMS\Business\bin\Debug\DataAccess.dll
+C:\Users\admin\source\repos\UMS\Business\bin\Debug\DataAccess.pdb
+C:\Users\admin\source\repos\UMS\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\UMS\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\UMS\Business\obj\Debug\Business.csproj.Up2Date
+C:\Users\admin\source\repos\UMS\Business\obj\Debug\Business.dll
+C:\Users\admin\source\repos\UMS\Business\obj\Debug\Business.pdb

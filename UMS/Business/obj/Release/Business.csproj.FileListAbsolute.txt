@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\UMS\Business\bin\Release\Business.dll
+C:\Users\admin\source\repos\UMS\Business\bin\Release\Business.pdb
+C:\Users\admin\source\repos\UMS\Business\bin\Release\DataAccess.dll
+C:\Users\admin\source\repos\UMS\Business\bin\Release\DataAccess.pdb
+C:\Users\admin\source\repos\UMS\Business\obj\Release\Business.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\UMS\Business\obj\Release\Business.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\UMS\Business\obj\Release\Business.csproj.Up2Date
+C:\Users\admin\source\repos\UMS\Business\obj\Release\Business.dll
+C:\Users\admin\source\repos\UMS\Business\obj\Release\Business.pdb
